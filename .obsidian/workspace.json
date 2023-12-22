@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "91f4856ced174060",
+        "id": "96fab84838f5c571",
         "type": "tabs",
         "children": [
           {
-            "id": "f437bab3aed0388e",
+            "id": "0d072ce9c2b93335",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GO 设计模式/一、设计模式概述.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GO 设计模式/一、设计模式概述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GO 设计模式/一、设计模式概述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GO 设计模式/一、设计模式概述.md"
+              }
             }
           }
         ]
@@ -138,6 +146,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f437bab3aed0388e",
-  "lastOpenFiles": []
+  "active": "1434c17c2a59ad3d",
+  "lastOpenFiles": [
+    "CopyFromWeb/Obsidian Web Clipper Test Note 1.md",
+    "GO 设计模式/一、设计模式概述.md",
+    "CopyFromWeb/Obsidian Web Clipper Test Note.md",
+    "CopyFromWeb",
+    "CopyForWeb/Obsidian Web Clipper Test Note.md",
+    "GO 设计模式/未命名.md",
+    "CopyForWeb",
+    "Document-GO/Obsidian Web Clipper Test Note.md",
+    "Document-GO",
+    "GO 设计模式"
+  ]
 }
